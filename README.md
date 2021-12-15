@@ -6,4 +6,4 @@ This repository contains the necessary files that need to be added to certain Hy
 3) Now, the test network is ready for deployment. Two key steps are to be followed here: 
   i) First, copy the imagestore folder from Fabric_Implementation/imagestore and paste it in fabric/fabric-samples/ directory of Hyperledger Fabric. 
   ii) Second, copy imagestore folder from Fabric_Implementation/chaincode/imagestore and paste it in fabric/fabric-samples/chaincode/ directory of Hyperledger Fabric.
-4) Under fabric/fabric-samples/chaincode/ run $npm install. Under fabric/fabric-samples/imagestore run $npm install
+4) Under fabric/fabric-samples/chaincode/ run \$npm install. Under fabric/fabric-samples/imagestore run \$npm install
